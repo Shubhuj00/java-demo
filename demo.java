@@ -4,5 +4,9 @@ class demo
            {
                      //comment
             }
+ public static m2()
+           {
+                     //comment2
+            }
 
 }
